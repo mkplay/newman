@@ -1,0 +1,6 @@
+# Global Stuff
+.DS_Store
+Thumbs.db
+
+# Project Related Stuff
+config.txt
